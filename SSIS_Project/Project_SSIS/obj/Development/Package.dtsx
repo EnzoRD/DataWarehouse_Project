@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="11/21/2024 12:12:40 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="BETSI"
+  DTS:CreatorName="BETSI\enzor"
+  DTS:DTSID="{E9F6D585-672F-4D5E-9E30-19753634F55C}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5685.0"
+  DTS:LocaleID="3082"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{3ABDE312-0CAE-4A8D-9689-84E5212DA531}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>

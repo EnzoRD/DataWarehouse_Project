@@ -84,7 +84,7 @@ Para implementar este proyecto, asegúrate de tener instalados los siguientes pr
 
 El siguiente es un diagrama del modelo estrella utilizado en el Data Warehouse:
 
-![Modelo Estrella](Images/Diagrama_Modelo.png)
+![Modelo Estrella](Images/diagramas.png)
 
 - **Fact Table:** Tabla de hechos central que contiene datos transaccionales.
 - **Dim Tables:** Tablas de dimensiones que enriquecen los hechos con atributos descriptivos.
